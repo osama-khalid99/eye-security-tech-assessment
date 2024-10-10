@@ -1,0 +1,2 @@
+incident-response-ingestion-service:
+    base-url: http://localhost:8080

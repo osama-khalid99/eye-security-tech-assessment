@@ -1,0 +1,6 @@
+analytics-service:
+    base-url: https://api.heyering.com
+    api-key: eye-am-hiring
+    enrichment-endpoint: enrichment
+    analytics-endpoint: analytics
+
